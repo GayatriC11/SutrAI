@@ -1147,7 +1147,7 @@ app.post(
 			const infrastructureByLocation =
 				new Map();
 
-			const batchSize = 2;
+			const batchSize = 12;
 
 			for (
 				let i = 0;
