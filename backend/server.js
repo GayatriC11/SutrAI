@@ -108,7 +108,7 @@ async function generateGeminiResponse(prompt) {
 	let lastError = null;
 
 	for (const model of models) {
-		for (let attempt = 1; attempt <= 2; attempt++) {
+		for (let attempt = 1; attempt <= 1; attempt++) {
 			try {
 				console.log(
 					`Trying Gemini model: ${model} | attempt ${attempt}/2`
