@@ -1,0 +1,163 @@
+[
+  {
+    "id": "1790518981974",
+    "request": "no schools near me",
+    "location": "sakri road, Dhule",
+    "area": "sakri road",
+    "city": "Dhule",
+    "language": "English",
+    "selectedCategory": "Auto-detect",
+    "coordinates": {
+      "latitude": 20.903637,
+      "longitude": 74.7571755
+    },
+    "analysis": {
+      "category": "Education Infrastructure",
+      "developmentNeed": "Assessment of primary and secondary educational facility accessibility and local demand",
+      "urgency": "Medium",
+      "affectedArea": "Sakri Road, Dhule",
+      "summary": "Resident reports an absence of nearby schools in the Sakri Road area of Dhule.",
+      "reasoning": "Serves as a public demand signal indicating a potential spatial or capacity gap in local educational coverage, warranting verification by planners regarding local school distribution and connectivity.",
+      "analysisSource": "Gemini"
+    },
+    "createdAt": "2026-09-27T14:23:01.974Z"
+  },
+  {
+    "id": "1790519318269",
+    "request": "No Hospitals and transport facilities near me",
+    "location": "Sikandra, Agra",
+    "area": "Sikandra",
+    "city": "Agra",
+    "language": "English",
+    "selectedCategory": "Auto-detect",
+    "coordinates": {
+      "latitude": 27.21273,
+      "longitude": 77.9501491
+    },
+    "analysis": {
+      "category": "Healthcare and Transportation",
+      "developmentNeed": "Assessment and enhancement of healthcare accessibility and public transit connectivity.",
+      "urgency": "High",
+      "affectedArea": "Sikandra, Agra",
+      "summary": "A resident in Sikandra, Agra reports a lack of accessible healthcare facilities and public transport services in their vicinity.",
+      "reasoning": "This input serves as a public demand signal indicating potential gaps in essential services (medical access and mobility), warranting civic review of local infrastructure distribution and transit routing.",
+      "analysisSource": "Gemini"
+    },
+    "createdAt": "2026-09-27T14:28:38.269Z"
+  },
+  {
+    "id": "1790519394590",
+    "request": "no education and transport facility in my village.",
+    "location": "Nandur Pathar, Ahilyanagar",
+    "area": "Nandur Pathar",
+    "city": "Ahilyanagar",
+    "language": "English",
+    "selectedCategory": "Auto-detect",
+    "coordinates": {
+      "latitude": 19.1382728,
+      "longitude": 74.26112
+    },
+    "analysis": {
+      "category": "Education & Public Transport",
+      "developmentNeed": "Access to primary/secondary educational facilities and public transportation services",
+      "urgency": "High",
+      "affectedArea": "Nandur Pathar, Ahilyanagar",
+      "summary": "A citizen reports an absence of essential education and transport facilities in Nandur Pathar village, Ahilyanagar.",
+      "reasoning": "The request identifies critical gaps in basic social infrastructure and public mobility in a localized area, serving as an input signal for administrative verification and infrastructure planning.",
+      "analysisSource": "Gemini"
+    },
+    "createdAt": "2026-09-27T14:29:54.590Z"
+  },
+  {
+    "id": "1790519841953",
+    "request": "No hospitals",
+    "location": "Gokulnagar, Indpur",
+    "area": "Gokulnagar",
+    "city": "Indpur",
+    "language": "English",
+    "selectedCategory": "Auto-detect",
+    "coordinates": {
+      "latitude": 23.1520708,
+      "longitude": 86.9124725
+    },
+    "analysis": {
+      "category": "Healthcare Infrastructure",
+      "developmentNeed": "Access to local healthcare facilities and medical services",
+      "urgency": "High",
+      "affectedArea": "Gokulnagar, Indpur",
+      "summary": "The citizen reports an absence of hospitals or medical facilities in Gokulnagar, Indpur.",
+      "reasoning": "The citizen input highlights a perceived lack of essential medical infrastructure, serving as a demand signal for planners to evaluate healthcare accessibility and service coverage in the area.",
+      "analysisSource": "Gemini"
+    },
+    "createdAt": "2026-09-27T14:37:21.953Z"
+  },
+  {
+    "id": "1790519927882",
+    "request": "No health facility in my area, we have to travel long time",
+    "location": "Gokulnagar, Indpur",
+    "area": "Gokulnagar",
+    "city": "Indpur",
+    "language": "English",
+    "selectedCategory": "Auto-detect",
+    "coordinates": {
+      "latitude": 23.1520708,
+      "longitude": 86.9124725
+    },
+    "analysis": {
+      "category": "Healthcare",
+      "developmentNeed": "Healthcare Services",
+      "urgency": "Low",
+      "affectedArea": "Gokulnagar, Indpur",
+      "summary": "The request indicates a local need related to healthcare services in Gokulnagar, Indpur. The signal has been structured from the citizen's description for inclusion in SutrAI's development-demand analysis.",
+      "reasoning": "The submitted request contains indicators associated with healthcare. This local fallback analysis is being used because the external AI service is temporarily unavailable. It should be treated as a structured demand signal rather than a final infrastructure assessment.",
+      "analysisSource": "Local fallback"
+    },
+    "createdAt": "2026-09-27T14:38:47.882Z"
+  },
+  {
+    "id": "1790519991876",
+    "request": "No transport facility in my area",
+    "location": "Gokulnagar, Indpur",
+    "area": "Gokulnagar",
+    "city": "Indpur",
+    "language": "English",
+    "selectedCategory": "Auto-detect",
+    "coordinates": {
+      "latitude": 23.1520708,
+      "longitude": 86.9124725
+    },
+    "analysis": {
+      "category": "Public Transport",
+      "developmentNeed": "Public Transportation",
+      "urgency": "Low",
+      "affectedArea": "Gokulnagar, Indpur",
+      "summary": "The request indicates a local need related to public transportation in Gokulnagar, Indpur. The signal has been structured from the citizen's description for inclusion in SutrAI's development-demand analysis.",
+      "reasoning": "The submitted request contains indicators associated with public transport. This local fallback analysis is being used because the external AI service is temporarily unavailable. It should be treated as a structured demand signal rather than a final infrastructure assessment.",
+      "analysisSource": "Local fallback"
+    },
+    "createdAt": "2026-09-27T14:39:51.876Z"
+  },
+  {
+    "id": "1790520147112",
+    "request": "No transport facility",
+    "location": "Katrap, Badlapur",
+    "area": "Katrap",
+    "city": "Badlapur",
+    "language": "English",
+    "selectedCategory": "Auto-detect",
+    "coordinates": {
+      "latitude": 19.1682013,
+      "longitude": 73.2321851
+    },
+    "analysis": {
+      "category": "Public Transport",
+      "developmentNeed": "Public Transportation",
+      "urgency": "Low",
+      "affectedArea": "Katrap, Badlapur",
+      "summary": "The request indicates a local need related to public transportation in Katrap, Badlapur. The signal has been structured from the citizen's description for inclusion in SutrAI's development-demand analysis.",
+      "reasoning": "The submitted request contains indicators associated with public transport. This local fallback analysis is being used because the external AI service is temporarily unavailable. It should be treated as a structured demand signal rather than a final infrastructure assessment.",
+      "analysisSource": "Local fallback"
+    },
+    "createdAt": "2026-09-27T14:42:27.112Z"
+  }
+]

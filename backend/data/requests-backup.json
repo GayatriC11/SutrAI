@@ -1,0 +1,372 @@
+[
+  {
+    "id": "1788505996401",
+    "request": "Our village has no hospital",
+    "location": "badlapur",
+    "language": "English",
+    "selectedCategory": "Auto-detect",
+    "analysis": {
+      "category": "Healthcare Infrastructure",
+      "developmentNeed": "Establishment of a local hospital or Primary Health Centre (PHC) to ensure accessible medical services.",
+      "urgency": "High",
+      "affectedArea": "Badlapur",
+      "summary": "Citizen reports the absence of a hospital facility in their village in Badlapur, highlighting a lack of local healthcare services.",
+      "reasoning": "Healthcare is a fundamental public service. The absence of a local hospital forces residents to travel to neighboring towns for routine and emergency medical care, creating critical delays and risk to public health."
+    },
+    "createdAt": "2026-09-04T07:13:16.401Z",
+    "coordinates": {
+      "latitude": 19.1666237,
+      "longitude": 73.2389064,
+      "displayName": "Badlapur, Badlapur Station skywalk, Badlapur, Kulgaon Badlapur, Ambernath Subdistrict, Thane, Maharashtra, 421503, India"
+    }
+  },
+  {
+    "id": "1788536225798",
+    "request": "less bus frequency",
+    "location": "Badlapur",
+    "language": "English",
+    "selectedCategory": "Auto-detect",
+    "analysis": {
+      "category": "Public Transportation",
+      "developmentNeed": "Increase in public bus service frequency and schedule optimization",
+      "urgency": "Medium",
+      "affectedArea": "Badlapur",
+      "summary": "The citizen reports inadequate bus frequency in Badlapur, indicating a demand for more frequent bus operations to support local daily commutes.",
+      "reasoning": "Infrequent bus services lead to longer wait times, commuter discomfort, and transit bottlenecks. Assessing passenger volume during peak hours and adjusting bus deployment or schedules will address local mobility needs."
+    },
+    "createdAt": "2026-09-04T15:37:05.798Z",
+    "coordinates": {
+      "latitude": 19.1666237,
+      "longitude": 73.2389064,
+      "displayName": "Badlapur, Badlapur Station skywalk, Badlapur, Kulgaon Badlapur, Ambernath Subdistrict, Thane, Maharashtra, 421503, India"
+    }
+  },
+  {
+    "id": "1788536334857",
+    "request": "NO hospitals",
+    "location": "Badlapur",
+    "language": "English",
+    "selectedCategory": "Auto-detect",
+    "analysis": {
+      "category": "Healthcare Infrastructure",
+      "developmentNeed": "Establishment of public hospitals and accessible medical facilities",
+      "urgency": "High",
+      "affectedArea": "Badlapur",
+      "summary": "The citizen is highlighting a critical shortage or complete absence of hospitals in Badlapur, expressing a demand for local medical infrastructure.",
+      "reasoning": "The input 'NO hospitals' directly points to a severe deficit in healthcare access, which poses significant public health risks and requires urgent administrative attention."
+    },
+    "createdAt": "2026-09-04T15:38:54.857Z",
+    "coordinates": {
+      "latitude": 19.1666237,
+      "longitude": 73.2389064,
+      "displayName": "Badlapur, Badlapur Station skywalk, Badlapur, Kulgaon Badlapur, Ambernath Subdistrict, Thane, Maharashtra, 421503, India"
+    }
+  },
+  {
+    "id": "1788536452331",
+    "request": "No airport",
+    "location": "Thane",
+    "language": "English",
+    "selectedCategory": "Auto-detect",
+    "analysis": {
+      "category": "Infrastructure & Urban Planning",
+      "developmentNeed": "Review of proposed aviation infrastructure and evaluation of environmental, noise, and land-use impacts on local communities",
+      "urgency": "Medium",
+      "affectedArea": "Thane",
+      "summary": "The citizen opposes the establishment or development of an airport in the Thane area.",
+      "reasoning": "The request explicitly rejects an airport in Thane. This highlights community concerns regarding major transport infrastructure, pointing to an underlying need for public consultation, environmental risk assessment, and balanced regional spatial planning."
+    },
+    "createdAt": "2026-09-04T15:40:52.331Z",
+    "coordinates": {
+      "latitude": 19.3653598,
+      "longitude": 73.3685437,
+      "displayName": "Thane, Maharashtra, India"
+    }
+  },
+  {
+    "id": "1788536943186",
+    "request": "need hospitals",
+    "location": "THANE",
+    "language": "English",
+    "selectedCategory": "Auto-detect",
+    "analysis": {
+      "category": "Healthcare",
+      "developmentNeed": "Establishment or expansion of hospitals and public medical infrastructure",
+      "urgency": "High",
+      "affectedArea": "Thane",
+      "summary": "Citizen request identifying a demand for hospitals and expanded healthcare capacity in Thane.",
+      "reasoning": "Healthcare infrastructure is a fundamental public service. Direct citizen feedback requesting hospitals suggests an existing shortfall or pressure on current medical facilities in the area."
+    },
+    "demandGroup": "Healthcare Infrastructure",
+    "createdAt": "2026-09-04T15:49:03.186Z",
+    "coordinates": {
+      "latitude": 19.3653598,
+      "longitude": 73.3685437,
+      "displayName": "Thane, Maharashtra, India"
+    }
+  },
+  {
+    "id": "1788537111451",
+    "request": "Our area needs a hospital because the nearest healthcare facility is very far away.",
+    "location": "thane",
+    "language": "English",
+    "selectedCategory": "Auto-detect",
+    "analysis": {
+      "category": "Healthcare Infrastructure",
+      "developmentNeed": "Establishment of a local public hospital or primary healthcare center to improve geographic accessibility to medical services.",
+      "urgency": "High",
+      "affectedArea": "Thane",
+      "summary": "Residents in Thane are requesting a local hospital due to long travel distances required to reach the nearest existing healthcare facility.",
+      "reasoning": "Direct access to emergency and essential medical care is a primary civic necessity. Long travel times for healthcare increase health risks for residents, indicating a clear need for localized medical infrastructure."
+    },
+    "demandGroup": "Healthcare Infrastructure",
+    "createdAt": "2026-09-04T15:51:51.451Z",
+    "coordinates": {
+      "latitude": 19.3653598,
+      "longitude": 73.3685437,
+      "displayName": "Thane, Maharashtra, India"
+    }
+  },
+  {
+    "id": "1788613142760",
+    "request": "No hospitals and buses",
+    "location": "Thane",
+    "language": "English",
+    "selectedCategory": "Auto-detect",
+    "analysis": {
+      "category": "Healthcare & Public Transportation",
+      "developmentNeed": "Establishment of public healthcare facilities and provision of public bus transport services.",
+      "urgency": "High",
+      "affectedArea": "Thane",
+      "summary": "The citizen reports a critical absence of local hospitals and public bus services in the area.",
+      "reasoning": "Healthcare and public transit are foundational civic necessities. The lack of hospitals affects health outcomes and emergency readiness, while the absence of bus services severely hinders mobility and connectivity for residents."
+    },
+    "demandGroup": "Healthcare Infrastructure",
+    "createdAt": "2026-09-05T12:59:02.760Z",
+    "coordinates": {
+      "latitude": 19.3653598,
+      "longitude": 73.3685437,
+      "displayName": "Thane, Maharashtra, India"
+    }
+  },
+  {
+    "id": "1788613874946",
+    "request": "No hospitals",
+    "location": "Badlapur",
+    "language": "English",
+    "selectedCategory": "Auto-detect",
+    "analysis": {
+      "category": "Healthcare Infrastructure",
+      "developmentNeed": "Establishment of public hospitals and accessible healthcare facilities.",
+      "urgency": "High",
+      "affectedArea": "Badlapur",
+      "summary": "Citizen reports a lack of hospitals in Badlapur, highlighting an urgent need for medical infrastructure.",
+      "reasoning": "An absence of hospitals critically compromises local medical emergency response and general public health access for the residents of Badlapur."
+    },
+    "demandGroup": "Healthcare Infrastructure",
+    "createdAt": "2026-09-05T13:11:14.946Z",
+    "coordinates": {
+      "latitude": 19.1666237,
+      "longitude": 73.2389064,
+      "displayName": "Badlapur, Badlapur Station skywalk, Badlapur, Kulgaon Badlapur, Ambernath Subdistrict, Thane, Maharashtra, 421503, India"
+    }
+  },
+  {
+    "id": "1788621531784",
+    "request": "Low bus frequency, No hospitals",
+    "location": "Badlapur",
+    "language": "English",
+    "selectedCategory": "Auto-detect",
+    "analysis": {
+      "category": "Healthcare & Public Transportation",
+      "developmentNeed": "Enhancement of local public bus frequency and establishment of accessible public healthcare facilities.",
+      "urgency": "High",
+      "affectedArea": "Badlapur",
+      "summary": "Citizens in Badlapur cite a critical lack of local hospital infrastructure combined with inadequate public bus service frequency.",
+      "reasoning": "The complete absence of accessible local hospitals poses significant public health risks, especially during emergency situations. Coupled with infrequent public transport that limits basic mobility, these essential service deficits require high-priority decision support for urban planning."
+    },
+    "demandGroup": "Healthcare Infrastructure",
+    "coordinates": {
+      "latitude": 19.1666237,
+      "longitude": 73.2389064,
+      "displayName": "Badlapur, Badlapur Station skywalk, Badlapur, Kulgaon Badlapur, Ambernath Subdistrict, Thane, Maharashtra, 421503, India"
+    },
+    "createdAt": "2026-09-05T15:18:51.784Z"
+  },
+  {
+    "id": "1788700528950",
+    "request": "No hospitals",
+    "location": "Nandur Pathar, Ahilyanagar",
+    "language": "English",
+    "selectedCategory": "Auto-detect",
+    "analysis": {
+      "category": "Healthcare",
+      "developmentNeed": "Establishment of primary healthcare facilities, medical clinics, or hospitals to provide accessible medical care.",
+      "urgency": "High",
+      "affectedArea": "Nandur Pathar, Ahilyanagar",
+      "summary": "The citizen highlights a complete absence of local hospitals, indicating a critical gap in essential healthcare infrastructure.",
+      "reasoning": "The explicit request 'No hospitals' identifies a foundational public health need. Lack of nearby medical facilities increases risk during health emergencies and necessitates local healthcare infrastructure planning."
+    },
+    "demandGroup": "Healthcare Infrastructure",
+    "coordinates": {
+      "latitude": 19.1382728,
+      "longitude": 74.26112,
+      "displayName": "Government Hospital, Nandur Pathar, ODR140, Parner, Ahilyanagar District, Maharashtra, 414304, India"
+    },
+    "createdAt": "2026-09-06T13:15:28.950Z"
+  },
+  {
+    "id": "1788701279747",
+    "request": "Less buses",
+    "location": "Vangani, Thane",
+    "language": "English",
+    "selectedCategory": "Auto-detect",
+    "analysis": {
+      "category": "Public Transportation & Traffic Management",
+      "developmentNeed": "Traffic congestion management, bus route optimization, and local road capacity assessment",
+      "urgency": "Low",
+      "affectedArea": "Vangani, Thane",
+      "summary": "Citizen in Vangani, Thane requests a reduction in the number of buses operating in the area.",
+      "reasoning": "Requests to reduce bus service usually stem from localized traffic congestion, narrow roads unsuited for large buses, noise pollution, or poorly timed bus schedules. Decision support suggests conducting a traffic impact and route utilization assessment to optimize bus frequency or vehicle sizes without severely reducing public transit connectivity."
+    },
+    "demandGroup": "Roads & Connectivity",
+    "coordinates": {
+      "latitude": 19.0943323,
+      "longitude": 73.3008946,
+      "displayName": "Vangani, Karjat Road, Vangani, Ambernath Subdistrict, Thane, Maharashtra, India"
+    },
+    "createdAt": "2026-09-06T13:27:59.747Z"
+  },
+  {
+    "id": "1788703156326",
+    "request": "There is no proper hospital facility easily accessible in my area. People have to travel far for basic treatment.",
+    "location": "Nandur Pathar",
+    "language": "English",
+    "selectedCategory": "Auto-detect",
+    "analysis": {
+      "category": "Healthcare Infrastructure",
+      "developmentNeed": "Establishment of a local primary healthcare center or hospital facility to provide accessible medical care.",
+      "urgency": "High",
+      "affectedArea": "Nandur Pathar",
+      "summary": "Residents in Nandur Pathar face a lack of accessible local healthcare facilities, forcing them to travel long distances even for basic medical treatment.",
+      "reasoning": "Lack of immediate access to basic medical services poses health risks to the community and increases travel burdens on residents, highlighting a crucial public health infrastructure gap."
+    },
+    "demandGroup": "Healthcare Infrastructure",
+    "coordinates": {
+      "latitude": 19.1382728,
+      "longitude": 74.26112,
+      "displayName": "Government Hospital, Nandur Pathar, ODR140, Parner, Ahilyanagar District, Maharashtra, 414304, India"
+    },
+    "createdAt": "2026-09-06T13:59:16.326Z"
+  },
+  {
+    "id": "1788709886921",
+    "request": "not good Higher education facility",
+    "location": "Nandur Pathar",
+    "language": "English",
+    "selectedCategory": "Auto-detect",
+    "analysis": {
+      "category": "Education",
+      "developmentNeed": "Upgrade and expansion of higher education infrastructure and resources",
+      "urgency": "Medium",
+      "affectedArea": "Nandur Pathar",
+      "summary": "The citizen reports poor quality or inadequate higher education facilities in Nandur Pathar, indicating a need for improved educational infrastructure.",
+      "reasoning": "The feedback expresses dissatisfaction with the current higher education facilities in the area. Addressing this requires an assessment of local colleges or vocational institutes to upgrade capacity, faculty, or infrastructure for student development."
+    },
+    "demandGroup": "Education Infrastructure",
+    "coordinates": {
+      "latitude": 19.1382728,
+      "longitude": 74.26112,
+      "displayName": "Government Hospital, Nandur Pathar, ODR140, Parner, Ahilyanagar District, Maharashtra, 414304, India"
+    },
+    "createdAt": "2026-09-06T15:51:26.921Z"
+  },
+  {
+    "id": "1788876347802",
+    "request": " आमच्या गावात आरोग्य सुविधा पुरेशा नाहीत. जवळचे रुग्णालय खूप दूर आहे आणि आपत्कालीन परिस्थितीत लोकांना मोठी अडचण होते. आमच्या भागात चांगल्या आरोग्य सुविधेची गरज आहे.",
+    "location": "Nandur Pathar, Ahilyanagar",
+    "language": "Marathi",
+    "selectedCategory": "Auto-detect",
+    "analysis": {
+      "category": "Healthcare",
+      "developmentNeed": "Establishment or upgrading of local healthcare infrastructure and emergency medical services",
+      "urgency": "High",
+      "affectedArea": "Nandur Pathar, Ahilyanagar",
+      "summary": "Inadequate local healthcare facilities and long distances to the nearest hospital create severe challenges during medical emergencies.",
+      "reasoning": "The citizen explicitly highlights the absence of nearby medical care and the critical impact on emergency situations, indicating an urgent requirement for improved village-level healthcare."
+    },
+    "demandGroup": "Healthcare Infrastructure",
+    "coordinates": {
+      "latitude": 19.1382728,
+      "longitude": 74.26112,
+      "displayName": "Government Hospital, Nandur Pathar, ODR140, Parner, Ahilyanagar District, Maharashtra, 414304, India"
+    },
+    "createdAt": "2026-09-08T14:05:47.802Z"
+  },
+  {
+    "id": "1788960292000",
+    "request": "No hospitals",
+    "location": "Thane",
+    "language": "English",
+    "selectedCategory": "Auto-detect",
+    "analysis": {
+      "category": "Healthcare Infrastructure",
+      "developmentNeed": "Establishment of public healthcare facilities and hospitals to provide accessible medical services.",
+      "urgency": "High",
+      "affectedArea": "Thane",
+      "summary": "Citizen request reporting an absence of hospitals in Thane, indicating a critical need for local healthcare infrastructure.",
+      "reasoning": "The request explicitly cites 'No hospitals' in Thane, pointing to a foundational gap in public health access and medical care availability."
+    },
+    "demandGroup": "Healthcare Infrastructure",
+    "coordinates": {
+      "latitude": 19.3653598,
+      "longitude": 73.3685437,
+      "displayName": "Thane, Maharashtra, India"
+    },
+    "createdAt": "2026-09-09T13:24:52.000Z"
+  },
+  {
+    "id": "1788961954934",
+    "request": "No Hospitals",
+    "location": "nandur pathar",
+    "language": "English",
+    "selectedCategory": "Auto-detect",
+    "analysis": {
+      "category": "Healthcare Infrastructure",
+      "developmentNeed": "Establishment of a hospital or primary healthcare facility to provide basic and emergency medical services.",
+      "urgency": "High",
+      "affectedArea": "Nandur Pathar",
+      "summary": "The citizen highlights a complete absence of hospitals in Nandur Pathar, indicating an immediate need for local medical infrastructure.",
+      "reasoning": "Lack of local healthcare facilities forces residents to travel elsewhere for essential medical treatment, representing a fundamental service gap in the area."
+    },
+    "demandGroup": "Healthcare Infrastructure",
+    "coordinates": {
+      "latitude": 19.1382728,
+      "longitude": 74.26112,
+      "displayName": "Government Hospital, Nandur Pathar, ODR140, Parner, Ahilyanagar District, Maharashtra, 414304, India"
+    },
+    "createdAt": "2026-09-09T13:52:34.934Z"
+  },
+  {
+    "id": "1789475960539",
+    "request": "There is not enough government healthcare access in my area",
+    "location": "Naupada, Thane",
+    "language": "English",
+    "selectedCategory": "Auto-detect",
+    "analysis": {
+      "category": "Healthcare Infrastructure",
+      "developmentNeed": "Establishment or expansion of public healthcare facilities, municipal dispensaries, or urban primary health centers.",
+      "urgency": "High",
+      "affectedArea": "Naupada, Thane",
+      "summary": "Citizen reports inadequate access to government healthcare services and public medical facilities in the Naupada area.",
+      "reasoning": "The input specifies a lack of government healthcare access localized to Naupada, Thane. Improving public health infrastructure in this locality addresses a critical civic need directly, without extrapolating the condition to the entire municipality of Thane."
+    },
+    "demandGroup": "Healthcare Infrastructure",
+    "coordinates": {
+      "latitude": 19.1896853,
+      "longitude": 72.9696845,
+      "displayName": "Naupada, Thane, Thane Subdistrict, Thane, Maharashtra, 400602, India"
+    },
+    "createdAt": "2026-09-15T12:39:20.539Z"
+  }
+]
