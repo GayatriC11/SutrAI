@@ -495,7 +495,7 @@ function App() {
 				
 				<div className="brand">
 					<div className="brand-mark">
-                 <img src="/src/assets/logo.png" alt="SutrAI logo" />
+                 <img src="/logo.png" alt="SutrAI logo" />
                     </div>
 
 					<div>
