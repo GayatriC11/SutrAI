@@ -1,7 +1,7 @@
 import { useEffect, useRef, useState } from "react";
 import "./CitizenInput.css";
 
-const API_BASE = "http://localhost:5000";
+const API_BASE = "https://sutrai-backend.onrender.com";
 
 const languages = [
 	"English",
