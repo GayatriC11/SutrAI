@@ -5,7 +5,7 @@ import CitizenInput from "./CitizenInput";
 import "./App.css";
 import DevelopmentMap from "./DevelopmentMap";
 
-const API_BASE = "http://localhost:5000";
+const API_BASE = "https://sutrai-backend.onrender.com";
 
 // Cache Area Intelligence results and share in-flight requests.
 // This prevents duplicate requests during React development remounts.
