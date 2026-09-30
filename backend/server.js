@@ -9,7 +9,7 @@ const {
 	backfillCoordinates,
 } = require("./services/requestStore");
 
-const {
+const {z
 	aggregateDemands,
 	identifyDemandGroup,
 } = require("./services/demandAggregator");
@@ -25,7 +25,7 @@ const { getLocationCoordinates } = require("./services/locationService");
 dotenv.config();
 
 const app = express();
-const PORT = process.env.PORT || 5000;
+const PORT = 5000;
 
 app.use(cors());
 app.use(express.json({ limit: "50kb" }));
@@ -108,7 +108,7 @@ async function generateGeminiResponse(prompt) {
 	let lastError = null;
 
 	for (const model of models) {
-		for (let attempt = 1; attempt <= 1; attempt++) {
+		for (let attempt = 1; attempt <= 2; attempt++) {
 			try {
 				console.log(
 					`Trying Gemini model: ${model} | attempt ${attempt}/2`
@@ -1147,7 +1147,7 @@ app.post(
 			const infrastructureByLocation =
 				new Map();
 
-			const batchSize = 12;
+			const batchSize = 2;
 
 			for (
 				let i = 0;
